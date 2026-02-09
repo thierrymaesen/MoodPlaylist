@@ -2,6 +2,8 @@
 
 Building AI course project
 
+<img src="moodplaylist_v2.png" alt="MoodPlaylist" width="600">
+
 ## Summary
 
 MoodPlaylist is a Python-based AI tool that analyzes the sentiment of short diary entries to detect your mood and suggest a matching music playlist genre. Write a few sentences about your day, and let AI pick the perfect soundtrack for your emotions.
