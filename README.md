@@ -24,7 +24,7 @@ You can test MoodPlaylist directly in your browser, no installation required:
 
 👉 **[Launch MoodPlaylist on Streamlit](https://moodplaylist-adwnsvcn4cgsuuuoaayasc.streamlit.app/)**
 
-> After deploying on Streamlit Community Cloud (see instructions below), replace the link above with your actual app URL.
+
 
 ## 📦 Installation (Local)
 
@@ -210,7 +210,7 @@ Vous pouvez tester MoodPlaylist directement dans votre navigateur, sans rien ins
 
 👉 **[Lancer MoodPlaylist sur Streamlit](https://moodplaylist-adwnsvcn4cgsuuuoaayasc.streamlit.app/)**
 
-> Après le déploiement sur Streamlit Community Cloud (voir instructions ci-dessous), remplacez le lien ci-dessus par l'URL réelle de votre application.
+
 
 ## 📦 Installation (en local)
 
