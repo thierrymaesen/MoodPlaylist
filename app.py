@@ -131,4 +131,4 @@ if st.button("🎶 Analyze my mood", type="primary", use_container_width=True):
         st.warning("Please write something about your day first!")
 
 st.divider()
-st.caption("Built with Streamlit & TextBlob | Building AI course project | [GitHub](https://github.com/thierrymaesen/MoodPlaylist)")
+st.caption("Built with Streamlit & TextBlob | Building AI course project - By Thierry Maesen | [GitHub](https://github.com/thierrymaesen/MoodPlaylist)")
