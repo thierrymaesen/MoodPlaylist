@@ -208,7 +208,7 @@ MoodPlaylist est un outil IA basé sur Python qui analyse le sentiment de courte
 
 Vous pouvez tester MoodPlaylist directement dans votre navigateur, sans rien installer :
 
-👉 **[Lancer MoodPlaylist sur Streamlit](https://moodplaylist-thierrymaesen.streamlit.app/)**
+👉 **[Lancer MoodPlaylist sur Streamlit](https://moodplaylist-adwnsvcn4cgsuuuoaayasc.streamlit.app/)**
 
 > Après le déploiement sur Streamlit Community Cloud (voir instructions ci-dessous), remplacez le lien ci-dessus par l'URL réelle de votre application.
 
