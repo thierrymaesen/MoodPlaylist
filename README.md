@@ -22,7 +22,7 @@ MoodPlaylist is a Python-based AI tool that analyzes the sentiment of short diar
 
 You can test MoodPlaylist directly in your browser, no installation required:
 
-👉 **[Launch MoodPlaylist on Streamlit](https://moodplaylist-thierrymaesen.streamlit.app/)**
+👉 **[Launch MoodPlaylist on Streamlit](https://moodplaylist-adwnsvcn4cgsuuuoaayasc.streamlit.app/)**
 
 > After deploying on Streamlit Community Cloud (see instructions below), replace the link above with your actual app URL.
 
