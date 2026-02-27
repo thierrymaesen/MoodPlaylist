@@ -20,7 +20,7 @@ Building AI course project
 ![NLTK](https://img.shields.io/badge/NLTK-3.8+-154F3C?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit Cloud](https://img.shields.io/badge/Deployed_on-Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Build](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge)
+![CI - Lint & Test](https://github.com/thierrymaesen/MoodPlaylist/actions/workflows/ci.yml/badge.svg)
 
 ## Summary
 
@@ -222,7 +222,7 @@ Projet du cours Building AI
 ![NLTK](https://img.shields.io/badge/NLTK-3.8+-154F3C?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit Cloud](https://img.shields.io/badge/Déployé_sur-Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Licence](https://img.shields.io/badge/Licence-MIT-green?style=for-the-badge)
-![Build](https://img.shields.io/badge/Build-Succès-brightgreen?style=for-the-badge)
+![CI - Lint & Test](https://github.com/thierrymaesen/MoodPlaylist/actions/workflows/ci.yml/badge.svg)
 
 ## Résumé
 
