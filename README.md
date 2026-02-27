@@ -14,9 +14,25 @@ Building AI course project
 
 <img src="moodplaylist_v2.png" alt="MoodPlaylist" width="600">
 
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![TextBlob](https://img.shields.io/badge/TextBlob-NLP-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3.8+-154F3C?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit Cloud](https://img.shields.io/badge/Deployed_on-Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Build](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge)
+
 ## Summary
 
 MoodPlaylist is a Python-based AI tool that analyzes the sentiment of short diary entries to detect your mood and suggest a matching music playlist genre. Write a few sentences about your day, and let AI pick the perfect soundtrack for your emotions.
+
+## Screenshots
+
+### Happy Mood Detection
+<img src="screenshots/screenshot_happy.png" alt="Happy mood detection - MoodPlaylist" width="700">
+
+### Sad Mood Detection
+<img src="screenshots/screenshot_sad.png" alt="Sad mood detection - MoodPlaylist" width="700">
 
 ## 🚀 Try it online (Live Demo)
 
@@ -200,9 +216,25 @@ Projet du cours Building AI
 
 <img src="moodplaylist_v2.png" alt="MoodPlaylist" width="600">
 
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![TextBlob](https://img.shields.io/badge/TextBlob-NLP-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3.8+-154F3C?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit Cloud](https://img.shields.io/badge/Déployé_sur-Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Licence](https://img.shields.io/badge/Licence-MIT-green?style=for-the-badge)
+![Build](https://img.shields.io/badge/Build-Succès-brightgreen?style=for-the-badge)
+
 ## Résumé
 
 MoodPlaylist est un outil IA basé sur Python qui analyse le sentiment de courtes entrées de journal intime pour détecter votre humeur et suggérer un genre de playlist musicale correspondant. Écrivez quelques phrases sur votre journée et laissez l'IA choisir la bande-son parfaite pour vos émotions.
+
+## Captures d'écran
+
+### Détection d'humeur : Joyeux
+<img src="screenshots/screenshot_happy.png" alt="Détection humeur joyeuse - MoodPlaylist" width="700">
+
+### Détection d'humeur : Triste
+<img src="screenshots/screenshot_sad.png" alt="Détection humeur triste - MoodPlaylist" width="700">
 
 ## 🚀 Essayer en ligne (Démo live)
 
